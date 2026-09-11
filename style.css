@@ -1,7 +1,7 @@
 .sec{
     color: #F2F2F2;
     background-color: #185E3F;
-    width: 200px;
+    width: 999px;
     height: 400px;
     border-radius:30px;
     border:None;
@@ -9,7 +9,7 @@
     font-align: center;
     font-size: 20px;
 .hero{
-      color: #F2F2F2;
+    color: #F2F2F2;
     background-color: #185E3F;
     width: 200px;
     height: 200px;
