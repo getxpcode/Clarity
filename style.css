@@ -19,6 +19,23 @@
     font-align: center;
     font-size: 20px;
 }
+textarea {
+  /* Size and Shape */
+  width: 100%;
+  max-width: 600px;
+  height: 150px;
+  padding: 12px;
+  
+  /* Borders and Edges */
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  
+  /* Typography */
+  font-family: inherit;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+}
 
 body{
     color: #185E3F;
